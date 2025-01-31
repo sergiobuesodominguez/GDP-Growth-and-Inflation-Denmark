@@ -4,7 +4,11 @@ This project explores the relationship between GDP growth and inflation in Denma
 
 Key Features
 Data processing: Cleaning and reshaping raw GDP and inflation data into a usable format.
+
 Year-over-year analysis: Calculating year-over-year differences to focus on trends and remove noise from the data.
+
 Visualization: Creating plots to compare GDP growth and inflation over time, as well as their changes year-over-year.
+
 Statistical analysis: Calculating correlations and performing regression analysis to understand the relationship between GDP growth and inflation.
+
 Forecasting: Using the VAR model to forecast future GDP growth and inflation trends for the next 5 years.
